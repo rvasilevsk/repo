@@ -1,0 +1,5 @@
+[user]
+    email = roman.vasilevsk@example.com
+    name = roman vasilevsky
+[push]
+    default = simple
